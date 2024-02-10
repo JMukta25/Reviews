@@ -7,9 +7,9 @@ Clone the repository.
 
 In the project directory,install the dependencies using npm i.
 
-Run the application in the development mode using nodemon App.js.
-
 Start the JSON server using npx json-server --watch src/data/db.json --port 8000 
+
+Run the application in the development mode using npm start.
 
 ### Technologies used
 
